@@ -13,4 +13,3 @@ Run next commands in your terminal:
 |---------|-------------|
 | `npm install` | Install dependencies. |
 | `npm start` | Opens game to http://localhost:8000 for development/interaction <br> Press `Ctrl + c` to kill **http-server** process. |
-=======
