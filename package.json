@@ -1,6 +1,6 @@
 {
-  "name": "phaser3-project-template",
-  "version": "1.0.9",
+  "name": "phaser3-webpack4-typescript3-starter",
+  "version": "0.0.1",
   "description": "A Phaser 3 Project Template",
   "main": "src/index.js",
   "scripts": {
